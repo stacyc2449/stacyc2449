@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Stacy (she/her), a senior at BxSci. I code for robots, mechanisms, and data analysis.
+
+**Fun fact:** I love birds. Birds are real. 🐦
 
 <!--
 **stacyc2449/stacyc2449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
