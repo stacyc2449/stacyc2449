@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Stacy (she/her), a senior at BxSci. I code for robots, mechanisms, and data analysis.
+I'm Stacy (she/her). I code for robots, mechanisms, and data analysis.
 
 **Fun fact:** I love birds. Birds are real. 🐦
 
